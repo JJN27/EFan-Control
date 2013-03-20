@@ -241,7 +241,11 @@
 			isa = PBXProject;
 			buildConfigurationList = C01FCF4E08A954540054247B /* Build configuration list for PBXProject "Fan Control" */;
 			compatibilityVersion = "Xcode 2.4";
+			developmentRegion = English;
 			hasScannedForEncodings = 1;
+			knownRegions = (
+				en,
+			);
 			mainGroup = 29B97314FDCFA39411CA2CEA /* MacProFan */;
 			projectDirPath = "";
 			projectRoot = "";
@@ -335,6 +339,7 @@
 				);
 				PREBINDING = NO;
 				PRODUCT_NAME = FanControlDaemon;
+				SDKROOT = "";
 				ZERO_LINK = YES;
 			};
 			name = Debug;
@@ -358,6 +363,7 @@
 				);
 				PREBINDING = NO;
 				PRODUCT_NAME = FanControlDaemon;
+				SDKROOT = "";
 				ZERO_LINK = NO;
 			};
 			name = Release;
@@ -387,6 +393,7 @@
 				);
 				PREBINDING = NO;
 				PRODUCT_NAME = "Fan Control";
+				SDKROOT = "";
 				WRAPPER_EXTENSION = prefPane;
 				ZERO_LINK = YES;
 			};
@@ -415,6 +422,7 @@
 				);
 				PREBINDING = NO;
 				PRODUCT_NAME = "Fan Control";
+				SDKROOT = "";
 				WRAPPER_EXTENSION = prefPane;
 				ZERO_LINK = NO;
 			};
@@ -428,6 +436,7 @@
 				GCC_GENERATE_DEBUGGING_SYMBOLS = YES;
 				GCC_OPTIMIZATION_LEVEL = 0;
 				PRODUCT_NAME = "Make All";
+				SDKROOT = "";
 			};
 			name = Debug;
 		};
@@ -438,6 +447,7 @@
 				GCC_ENABLE_FIX_AND_CONTINUE = NO;
 				GCC_GENERATE_DEBUGGING_SYMBOLS = NO;
 				PRODUCT_NAME = "Make All";
+				SDKROOT = "";
 				ZERO_LINK = NO;
 			};
 			name = Release;
@@ -448,7 +458,7 @@
 				GCC_WARN_ABOUT_RETURN_TYPE = YES;
 				GCC_WARN_UNUSED_VARIABLE = YES;
 				PREBINDING = NO;
-				SDKROOT = /Developer/SDKs/MacOSX10.4u.sdk;
+				SDKROOT = "";
 			};
 			name = Debug;
 		};
@@ -458,7 +468,7 @@
 				GCC_WARN_ABOUT_RETURN_TYPE = YES;
 				GCC_WARN_UNUSED_VARIABLE = YES;
 				PREBINDING = NO;
-				SDKROOT = /Developer/SDKs/MacOSX10.4u.sdk;
+				SDKROOT = "";
 			};
 			name = Release;
 		};
