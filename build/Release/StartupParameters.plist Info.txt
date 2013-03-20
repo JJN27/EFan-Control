@@ -1,0 +1,7 @@
+StartupParameters.plist goes into a folder named
+/Library/PreferencePanes/FanControlDaemon
+
+(if it doesn't exist, create it)
+
+When doing a manual copy/install, be sure to set the correct ownership and
+permissions (it's not a bad idea to run Disk Utility's "Repair Disk Permissions").

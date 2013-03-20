@@ -1,0 +1,3 @@
+Extended MacBook/MacBook Pro Fan Control is a preference pane that allows control of the system's fan speeds, based upon temperature sensors and User-configured parameters.
+
+NOTE: this software is designed to work ONLY on Intel-based MacBook and MacBook Pro computers running Mac OS X 10.4 (Tiger) or 10.5 (Leopard).

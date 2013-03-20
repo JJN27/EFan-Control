@@ -1,0 +1,159 @@
+// !$*UTF8*$!
+{
+	089C165DFE840E0CC02AAC07 /* English */ = {
+		uiCtxt = {
+			sepNavIntBoundsRect = "{{0, 0}, {543, 372}}";
+			sepNavSelRange = "{0, 0}";
+			sepNavVisRange = "{0, 99}";
+			sepNavWindowFrame = "{{61, 537}, {602, 444}}";
+		};
+	};
+	29B97313FDCFA39411CA2CEA /* Project object */ = {
+		activeArchitecture = i386;
+		activeBuildConfigurationName = Release;
+		activeExecutable = 8422B5750E10E07C00A8D978 /* Daemon */;
+		activeTarget = 65C120860ADD28830005FBFF /* Make All */;
+		codeSenseManager = 8422B5820E10E09C00A8D978 /* Code sense */;
+		executables = (
+			8422B5750E10E07C00A8D978 /* Daemon */,
+		);
+		perUserDictionary = {
+			PBXConfiguration.PBXFileTableDataSource3.PBXFileTableDataSource = {
+				PBXFileTableDataSourceColumnSortingDirectionKey = "-1";
+				PBXFileTableDataSourceColumnSortingKey = PBXFileDataSource_Filename_ColumnID;
+				PBXFileTableDataSourceColumnWidthsKey = (
+					20,
+					10,
+					20,
+					48,
+					43,
+					43,
+					20,
+				);
+				PBXFileTableDataSourceColumnsKey = (
+					PBXFileDataSource_FiletypeID,
+					PBXFileDataSource_Filename_ColumnID,
+					PBXFileDataSource_Built_ColumnID,
+					PBXFileDataSource_ObjectSize_ColumnID,
+					PBXFileDataSource_Errors_ColumnID,
+					PBXFileDataSource_Warnings_ColumnID,
+					PBXFileDataSource_Target_ColumnID,
+				);
+			};
+			PBXConfiguration.PBXTargetDataSource.PBXTargetDataSource = {
+				PBXFileTableDataSourceColumnSortingDirectionKey = "-1";
+				PBXFileTableDataSourceColumnSortingKey = PBXFileDataSource_Filename_ColumnID;
+				PBXFileTableDataSourceColumnWidthsKey = (
+					20,
+					10,
+					60,
+					20,
+					48,
+					43,
+					43,
+				);
+				PBXFileTableDataSourceColumnsKey = (
+					PBXFileDataSource_FiletypeID,
+					PBXFileDataSource_Filename_ColumnID,
+					PBXTargetDataSource_PrimaryAttribute,
+					PBXFileDataSource_Built_ColumnID,
+					PBXFileDataSource_ObjectSize_ColumnID,
+					PBXFileDataSource_Errors_ColumnID,
+					PBXFileDataSource_Warnings_ColumnID,
+				);
+			};
+			PBXPerProjectTemplateStateSaveDate = 237374396;
+			PBXWorkspaceStateSaveDate = 237374396;
+		};
+		sourceControlManager = 8422B5810E10E09C00A8D978 /* Source Control */;
+		userBuildSettings = {
+		};
+	};
+	65C1192C0ADC17F00005FBFF /* smc.c */ = {
+		uiCtxt = {
+			sepNavIntBoundsRect = "{{0, 0}, {1216, 6992}}";
+			sepNavSelRange = "{10868, 0}";
+			sepNavVisRange = "{9791, 1025}";
+			sepNavWindowFrame = "{{38, 125}, {1275, 877}}";
+		};
+	};
+	65C11C010ADCCC7C0005FBFF /* Daemon */ = {
+		activeExec = 0;
+		executables = (
+			8422B5750E10E07C00A8D978 /* Daemon */,
+		);
+	};
+	65C11DD00ADCD10E0005FBFF /* MFDaemon.m */ = {
+		uiCtxt = {
+			sepNavIntBoundsRect = "{{0, 0}, {1163, 6064}}";
+			sepNavSelRange = "{810, 13}";
+			sepNavVisRange = "{0, 1443}";
+			sepNavWindowFrame = "{{171, 28}, {844, 850}}";
+		};
+	};
+	65C120230ADD064D0005FBFF /* Preference Pane */ = {
+		activeExec = 0;
+	};
+	65C1202E0ADD06C60005FBFF /* MFPreferencePane.h */ = {
+		uiCtxt = {
+			sepNavIntBoundsRect = "{{0, 0}, {706, 1744}}";
+			sepNavSelRange = "{2681, 0}";
+			sepNavVisRange = "{1697, 1377}";
+			sepNavWindowFrame = "{{138, 17}, {765, 861}}";
+		};
+	};
+	65C1202F0ADD06C60005FBFF /* MFPreferencePane.m */ = {
+		uiCtxt = {
+			sepNavIntBoundsRect = "{{0, 0}, {806, 4240}}";
+			sepNavSelRange = "{2315, 0}";
+			sepNavVisRange = "{1533, 2136}";
+			sepNavWindowFrame = "{{254, 34}, {828, 844}}";
+		};
+	};
+	65C120860ADD28830005FBFF /* Make All */ = {
+		activeExec = 0;
+	};
+	65C123E80ADD52A00005FBFF /* MFChartView.m */ = {
+		uiCtxt = {
+			sepNavIntBoundsRect = "{{0, 0}, {759, 4536}}";
+			sepNavSelRange = "{8395, 5}";
+			sepNavVisRange = "{0, 0}";
+			sepNavWindowFrame = "{{15, -4}, {1275, 877}}";
+		};
+	};
+	8422B5750E10E07C00A8D978 /* Daemon */ = {
+		isa = PBXExecutable;
+		activeArgIndices = (
+		);
+		argumentStrings = (
+		);
+		autoAttachOnCrash = 1;
+		breakpointsEnabled = 0;
+		configStateDict = {
+		};
+		customDataFormattersEnabled = 1;
+		debuggerPlugin = GDBDebugging;
+		disassemblyDisplayState = 0;
+		dylibVariantSuffix = "";
+		enableDebugStr = 1;
+		environmentEntries = (
+		);
+		executableSystemSymbolLevel = 0;
+		executableUserSymbolLevel = 0;
+		libgmallocEnabled = 0;
+		name = Daemon;
+		sourceDirectories = (
+		);
+	};
+	8422B5810E10E09C00A8D978 /* Source Control */ = {
+		isa = PBXSourceControlManager;
+		fallbackIsa = XCSourceControlManager;
+		isSCMEnabled = 0;
+		scmConfiguration = {
+		};
+	};
+	8422B5820E10E09C00A8D978 /* Code sense */ = {
+		isa = PBXCodeSenseManager;
+		indexTemplatePath = "";
+	};
+}
