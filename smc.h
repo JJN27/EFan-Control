@@ -47,7 +47,8 @@
 // key values
 //
 // temperature sensors
-#define SMC_KEY_CPU_TEMP  "TC0D" // CPU diode temp
+#define SMC_KEY_CPU_TEMP  "TC0F" //updated value for mid 2012 macbook pro 
+//#define SMC_KEY_CPU_TEMP  "TC0D" // CPU diode temp 
 #define SMC_KEY_GPU_TEMP  "TG0P" // GPU processor temp
 //
 // current RPM for fans
